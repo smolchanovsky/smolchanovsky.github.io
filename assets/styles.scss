@@ -52,3 +52,9 @@
 .min-height-full {
   min-height: 100vh;
 }
+
+.project-card {
+  h1 {
+    word-break: break-all;
+  }
+}
